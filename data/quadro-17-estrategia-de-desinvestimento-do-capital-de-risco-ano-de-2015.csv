@@ -1,0 +1,11 @@
+,N.. Transacoes SCR,Preco Venda (10^3 Euro) SCR,% ('1) SCR,N.. Transacoes FCR,Preco Venda (10^3 Euro) FCR,% ('1) FCR,N.. Transacoes TOTAL,Preco Venda (10^3 Euro) TOTAL,% ('1) TOTAL
+Contrato de venda a prazo,1,1299.6,4.1,13,14342,44.8,14,15641.6,2.5
+Recompra (pela equipa de gestao ou acionistas),1,385,1.2,35,70252.5,219.5,36,70637.5,11.5
+Venda a FCR,0,0,0,12,10158.3,31.7,12,10158.3,1.7
+Venda a SCR,0,0,0,0,0,0,0,0,0
+IPO,0,0,0,0,0,0,0,0,0
+Nao definido,16,3451.3,10.8,126,416025.2,1299.9,142,419476.5,68.2
+Venda a terceiros,20,12638.6,39.5,54,72166.9,225.5,74,84805.5,13.8
+Venda a Instituicao Financeira,1,14230.7,44.5,0,0,0,1,14230.7,44.5
+Write-off,10,0,0,96,0,0,106,0,0
+Total,49,32005.2,100.1,336,582944.9,1821.4,385,614950.1,142.2
